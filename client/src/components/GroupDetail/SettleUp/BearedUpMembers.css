@@ -1,0 +1,45 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.members {
+  font-family: Mukta, sans-serif;
+  margin-top: -7%;
+  margin-left: -10%;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  color: #4f546c;
+  font-size: 0.9rem;
+  font-weight: bold;
+  background-color: #f9fbff;
+}
+
+table {
+  border-collapse: collapse;
+  box-shadow: 0 5px 10px #e1e5ee;
+  background-color: white;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  margin: auto;
+}
+
+table thead {
+  box-shadow: 0 5px 10px #e1e5ee;
+  width: 60%;
+}
+
+table th {
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  font-size: 0.9rem;
+  font-weight: 900;
+  width: 60%;
+}

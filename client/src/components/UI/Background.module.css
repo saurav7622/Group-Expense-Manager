@@ -1,0 +1,10 @@
+.pageCoverYellow {
+  height: 100vh;
+  overflow: auto;
+  background: #fec107;
+}
+.pageCoverViolet {
+  height: 100vh;
+  overflow: auto;
+  background: #150019;
+}

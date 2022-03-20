@@ -1,0 +1,40 @@
+table td {
+    padding: 1rem 2rem;
+    width: 60%;
+    font-size: 110%;
+  }
+  
+  table a {
+    text-decoration: none;
+    color: #2962ff;
+  }
+  
+  table .status {
+    border-radius: 0.2rem;
+    padding: 0.2rem 1rem;
+    text-align: center;
+  }
+  
+  .status-pending {
+    background-color: #fff0c2;
+    color: #a68b00;
+  }
+  
+  .status-unpaid {
+    background-color: #ffcdd2;
+    color: #c62828;
+  }
+  
+  .status-paid {
+    background-color: #c8e6c9;
+    color: #388e3c;
+  }
+  
+  .amount {
+    text-align: center;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f4f6fb;
+  }
+  

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "agarwalsaurav6276@gmail.com",
+    "name": "Saurav Agarwal",
+    "contactNo": 8340723027,
+    "groupsJoined": [
+      { "groupId": "g1" },
+      { "groupId": "g2" },
+      { "groupId": "g3" },
+      { "groupId": "g4" }
+    ]
+  },
+  {
+    "id": "kumarsaurav6276@gmail.com",
+    "name": "Saurav Kumar",
+    "contactNo": 8340723027,
+    "groupsJoined": [
+      { "groupId": "g1" },
+      { "groupId": "g2" },
+      { "groupId": "g3" },
+      { "groupId": "g4" }
+    ]
+  },
+  {
+    "id": "agarwalsonu6276@gmail.com",
+    "name": "Sonu Kumar",
+    "contactNo": 8340723027,
+    "groupsJoined": [
+      { "groupId": "g2" },
+      { "groupId": "g3" },
+      { "groupId": "g4" }
+    ]
+  },
+  {
+    "id": "btech10442.19@bitmesra.ac.in",
+    "name": "Saurav Kumar",
+    "contactNo": 8340723027,
+    "groupsJoined": [{ "groupId": "g3" }, { "groupId": "g4" }]
+  },
+  {
+    "id": "agarwalshweta226@gmail.com",
+    "name": "Shweta Kumari",
+    "contactNo": 620537983,
+    "groupsJoined": [{ "groupId": "g4" }]
+  },
+  {
+    "id": "agarwalsaurav0076@gmail.com",
+    "name": "Saurav Kumar",
+    "contactNo": 8340723027
+  },
+  {
+    "id": "btech10427.19@bitmesra.ac.in",
+    "name": "Saurav Kumar",
+    "contactNo": 8340723027
+  },
+  {
+    "id": "btech10445.19@bitmesra.ac.in",
+    "name": "Kartik Rai",
+    "contactNo": "9519573971"
+  }
+]

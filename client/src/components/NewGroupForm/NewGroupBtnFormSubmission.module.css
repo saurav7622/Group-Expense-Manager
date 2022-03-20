@@ -1,0 +1,34 @@
+.btnWrapper {
+    position: relative;
+    margin-top: 4%;
+    text-align: center;
+  }
+  .btnWrapper button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #0069C9;
+    background-color: #0069C9;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+    width:20%;
+  }
+  
+  .btnWrapper button:hover,
+  button:active {
+    background-color: #0069D9;
+    border-color: #0069D9;
+  }
+  
+  .btnWrapper button.alternative {
+    color: #c82333;;
+    border-color: transparent;
+    background-color: transparent;
+  }
+  
+  .btnWrapper button.alternative:hover,
+  button.alternative:active {
+    background-color: #0069D9;
+  }
+  

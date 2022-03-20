@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Group 1",
+    "date": "2021-01-31T18:30:00.000Z",
+    "worth": 2000,
+    "members": [
+      {
+        "memberId": "agarwalsaurav6276@gmail.com",
+        "myShare": 500,
+        "amountPaid": 1000,
+        "totalAmountPaid": 1000,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "kumarsaurav6276@gmail.com",
+        "myShare": 600,
+        "amountPaid": 700,
+        "totalAmountPaid": 700,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "agarwalsonu6276@gmail.com",
+        "myShare": 400,
+        "amountPaid": 100,
+        "totalAmountPaid": 100,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "btech10442.19@bitmesra.ac.in",
+        "myShare": 300,
+        "amountPaid": 100,
+        "totalAmountPaid": 100,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "agarwalshweta226@gmail.com",
+        "myShare": 200,
+        "amountPaid": 100,
+        "totalAmountPaid": 100,
+        "amountReceived": 0
+      }
+    ],
+    "logs": [
+      {
+        "date": "2021-01-31T18:30:00.000Z",
+        "logText": "Saurav Kumar created Group 1 group"
+      }
+    ]
+  },
+  {
+    "name": "Group 2",
+    "date": "2021-03-02T18:30:00.000Z",
+    "worth": 1500,
+    "members": [
+      {
+        "memberId": "agarwalsaurav6276@gmail.com",
+        "myShare": 400,
+        "amountPaid": 800,
+        "totalAmountPaid": 800,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "kumarsaurav6276@gmail.com",
+        "myShare": 500,
+        "amountPaid": 700,
+        "totalAmountPaid": 700,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "agarwalsonu6276@gmail.com",
+        "myShare": 500,
+        "amountPaid": 0,
+        "totalAmountPaid": 0,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "btech10442.19@bitmesra.ac.in",
+        "myShare": 100,
+        "amountPaid": 0,
+        "totalAmountPaid": 0,
+        "amountReceived": 0
+      }
+    ],
+    "logs": [
+      {
+        "date": "2021-03-02T18:30:00.000Z",
+        "logText": "Saurav Kumar created Group 2 group"
+      }
+    ]
+  },
+  {
+    "name": "Group 3",
+    "date": "2021-04-04T18:30:00.000Z",
+    "worth": 1000,
+    "members": [
+      {
+        "memberId": "agarwalsaurav6276@gmail.com",
+        "myShare": 500,
+        "amountPaid": 200,
+        "totalAmountPaid": 200,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "kumarsaurav6276@gmail.com",
+        "myShare": 300,
+        "amountPaid": 300,
+        "totalAmountPaid": 300,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "agarwalsonu6276@gmail.com",
+        "myShare": 200,
+        "amountPaid": 500,
+        "totalAmountPaid": 500,
+        "amountReceived": 0
+      }
+    ],
+    "logs": [
+      {
+        "date": "2021-04-04T18:30:00.000Z",
+        "logText": "Saurav Kumar created Group 3 group"
+      }
+    ]
+  },
+  {
+    "name": "Group 4",
+    "date": "2021-05-06T18:30:00.000Z",
+    "worth": 500,
+    "members": [
+      {
+        "memberId": "agarwalsaurav6276@gmail.com",
+        "myShare": 200,
+        "amountPaid": 100,
+        "totalAmountPaid": 100,
+        "amountReceived": 0
+      },
+      {
+        "memberId": "kumarsaurav6276@gmail.com",
+        "myShare": 300,
+        "amountPaid": 400,
+        "totalAmountPaid": 400,
+        "amountReceived": 0
+      }
+    ],
+    "logs": [
+      {
+        "date": "2021-05-06T18:30:00.000Z",
+        "logText": "Saurav Kumar created Group 4 group"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+.btnWrapper {
+  position: relative;
+  margin-top: 1%;
+  text-align: center;
+}
+.btnWrapper button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid #2a2a2a;
+  background-color: #2a2a2a;
+  color: white;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.btnWrapper button:hover,
+button:active {
+  background-color: #030303;
+  border-color: #030303;
+}
+
+.btnWrapper button.alternative {
+  color: #030303;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.btnWrapper button.alternative:hover,
+button.alternative:active {
+  background-color: #ddb3f8;
+}

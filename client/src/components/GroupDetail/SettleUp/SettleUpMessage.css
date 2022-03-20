@@ -1,0 +1,24 @@
+.debt-status {
+  position: relative;
+  z-index: 5;
+  margin-top: 10%;
+  padding: 0.8rem 0.8rem;
+  border-radius: 14px;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+.status-pending {
+  background-color: #fff0c2;
+  color: #a68b00;
+}
+
+.status-unpaid {
+  background-color: #ffcdd2;
+  color: #c62828;
+}
+
+.status-paid {
+  background-color: #c8e6c9;
+  color: #388e3c;
+}

@@ -1,0 +1,22 @@
+.btnWrapper {
+  text-align: start;
+}
+.btnWrapper button {
+  position: relative;
+  font: inherit;
+  border: 1px solid #4f005f;
+  background: #4f005f;
+  color: white;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+}
+
+.btnWrapper .button:hover,
+.button:active {
+  background: #741188;
+  border-color: #741188;
+}
+
+.btnWrapper .button:focus {
+  outline: none;
+}

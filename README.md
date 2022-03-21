@@ -3,7 +3,6 @@
 
 A full stack single page web application which helps people manage their group expenses by splitting bills and settling up those as well!
 
-Go through the given link to use this application! (https://group-expense-manager-6e4be.web.app/)
 
 
 ## Tech Stack (MERN)

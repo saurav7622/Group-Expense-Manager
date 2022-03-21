@@ -3,12 +3,20 @@
 
 A full stack single page web application which helps people manage their group expenses by splitting bills and settling up those as well!
 
+Go through the given link to use this application! (https://group-expense-manager-6e4be.web.app/)
+
 
 ## Tech Stack (MERN)
 
 **Client:** React
 
 **Server:** Node, Express,MongoDB
+
+**Client Hoisting Url:** https://group-expense-manager-6e4be.web.app/
+
+**API Root Url:**  https://group-expense-manager-api.herokuapp.com/
+
+## Application link [here](https://group-expense-manager-6e4be.web.app)
 
 
 ## Why Group Expense Manager?

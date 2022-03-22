@@ -15,7 +15,7 @@ A full stack single page web application which helps people manage their group e
 
 **API Root Url:**  https://group-expense-manager-api.herokuapp.com/
 
-## Application link [here](https://group-expense-manager-6e4be.web.app)
+## Application link [here](https://group-expense-manager-6e4be.web.app/)
 
 
 ## Why Group Expense Manager?

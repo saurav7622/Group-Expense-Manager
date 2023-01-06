@@ -33,7 +33,7 @@ If the indebted member(s) has completed some payment to the members who is owed,
 
 Lastly, to avoid confusion regarding movements of money and other stuffs related to settling up, all the major activities will be stored in the logs for each group.Also, contact information of all the group members are provided in each group.
 
-## Video Demo [here](https://www.youtube.com/watch?v=wVUV8YaOYhc)
+## Video Demo [here](https://www.dailymotion.com/video/x8ds3tx)
 
 
 
